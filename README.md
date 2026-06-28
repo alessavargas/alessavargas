@@ -1,7 +1,7 @@
 # Alessandra Vargas
 
 Actuarial Scientist · Facultad de Ciencias, UNAM  
-Technical Advisor @ **Lockton** · 3.4 yrs in collective Health & life insurance  
+Technical Advisor @ **Lockton** · 3.4 yrs in collective health & life insurance  
 → Transitioning into **banking & financial risk**
 
 ---
@@ -18,22 +18,24 @@ from risk analysis to final placement:
   benchmarking, and findings metrics
 - **Harmonization** — when subsidiaries acquire other companies, I consolidate and
   homologate their insurance programs into a unified structure
+- **Stakeholder communication** — built and delivered PowerPoint presentations to
+  directors, commercial teams, and clients, translating technical risk findings
+  into clear business decisions
 
 ---
 
-## Project I built at work
+## Tool I designed at work
 
-### Corporate Insurance Quoter *(private — available on request)*
+### Corporate Insurance Quoter *(confidential)*
 
-A web tool that **cuts the quoting process from 2+ hours to under 10 minutes**
+A web tool I designed and configured — defining parameters, calculation logic,
+and data cubes — that **cuts the quoting process from 2+ hours to under 10 minutes**
 for accounts eligible under broker-insurer agreements.
 
 - Queries multiple insurers simultaneously
 - Auto-generates **quotation slips and output slips** in Excel format
 - Produces a **full corporate presentation** with all conditions and pricing
-- Built to handle high-volume, standardized accounts at scale
-
-> Built with Python · Excel automation · Web frontend
+- Designed to handle high-volume, standardized accounts at scale
 
 ---
 
@@ -52,7 +54,7 @@ Modular Python library for market risk quantification via Monte Carlo simulation
 ## Stack
 
 ```
-Python · NumPy · pandas · scipy · Excel automation · yfinance
+Python · NumPy · pandas · scipy · Excel · yfinance
 ```
 Currently building: `SQL` · `R` · credit risk models (PD / LGD / EAD)
 
