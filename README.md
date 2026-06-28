@@ -1,4 +1,3 @@
-# alessavargas-alessavargas
 # Alessandra Vargas
 
 **Soon-to-be Actuary | UNAM, Facultad de Ciencias**   
