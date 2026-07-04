@@ -1,5 +1,5 @@
 # Alessandra Vargas
-Actuarial Scientist · Facultad de Ciencias, UNAM  
+Actuarial Science @ **Facultad de Ciencias, UNAM**   
 Technical Advisor @ **Lockton** · 3+ yrs in collective health & life insurance  
 → Transitioning into **banking & financial risk**
 
@@ -11,7 +11,7 @@ from risk analysis to final placement:
 
 - **Negotiation & underwriting** — negotiate premiums and conditions directly with
   insurers for collective health and life accounts
-- **Portfolio scale** — corporate accounts ranging from **$5M to $40M MXN** per client
+- **Portfolio scale** — corporate portfolios with annual premiums ranging from **$5M to $40M MXN**
 - **Analytical work** — claims analysis, morbidity trends, loss ratios, market
   benchmarking, and findings metrics
 - **Harmonization** — when subsidiaries acquire other companies, I consolidate and
@@ -45,7 +45,7 @@ across multi-asset portfolios.
 - 10,000 simulations; captures fat tails, skewness, and cross-asset correlations
 - Automated data ingestion via the Yahoo Finance API; configurable reporting
   (summary tables, CSV exports, visualizations)
-- Built to explore the risk metrics at the core of Basel III internal models
+- Built to explore quantitative market risk metrics commonly used in portfolio risk management and regulatory capital frameworks
 
 ### Reto Banxico 2026-II
 - Led inflation analysis for a simulated Banco de México Governing Board session;
@@ -64,7 +64,7 @@ across multi-asset portfolios.
 ## Stack
 
 ```
-Python · NumPy · pandas · R · SQL · scipy · Excel · yfinance · Power BI
+Python · NumPy · pandas · R · SQL · SciPy · Excel · yfinance · Power BI · Git · GitHub
 ```
 Currently building: credit risk models (`PD` / `LGD` / `EAD`)
 
@@ -76,7 +76,7 @@ maps directly onto banking risk. I'm actively targeting **credit risk, market
 risk, ALM, and portfolio risk roles** across banking and asset management, where
 actuarial rigor meets financial regulation.
 
-Interested in: Basel III · IFRS 17 · stress testing · risk-based capital
+Currently learning: Basel III · IFRS 17 · stress testing · risk-based capital · ALM · financial econometrics
 
 ---
 
