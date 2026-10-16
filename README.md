@@ -11,7 +11,6 @@ from risk analysis to final placement:
 
 - **Negotiation & underwriting** — negotiate premiums and conditions directly with
   insurers for collective health and life accounts
-- **Portfolio scale** — corporate portfolios with annual premiums ranging from **$5M to $40M MXN**
 - **Analytical work** — claims analysis, morbidity trends, loss ratios, market
   benchmarking, and findings metrics
 - **Harmonization** — when subsidiaries acquire other companies, I consolidate and
