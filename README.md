@@ -1,6 +1,6 @@
 # Alessandra Vargas
 Actuarial Science @ **Facultad de Ciencias, UNAM**   
-Technical Advisor @ **Lockton** · 3+ yrs in collective health & life insurance  
+Sr Technical Advisor @ **Lockton** · 3+ yrs in collective health & life insurance  
 → Transitioning into **banking & financial risk**
 
 ---
